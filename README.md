@@ -1,9 +1,16 @@
-## Hi there 👋
+## 👋 Hey, I'm Jappun
+- 📚 I'm a Computer Science and English Literature double major at UBC in Vancouver
+- 👾 Trying to attend at least six hackathons in 2025 (1/6 so far)
+- 👩🏽‍💻 My go-to tech stack for web dev right now is Next.js, React and Supabase
+
+
 
 <!--
 **jappun/jappun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🌱 I’m currently learning about Network Engineering, and build my own protocol to do simple math operations
+- 🤖 Exploring ML and building a wildfire prediction tool based on historical data in Canada
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

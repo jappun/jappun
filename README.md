@@ -1,9 +1,9 @@
 ## 👋 Hey, I'm Jappun
 - 📚 I'm a Computer Science and English Literature double major at UBC in Vancouver
 - 👾 Trying to attend at least six hackathons in 2025 (1/6 so far)
+- 💭 Currently a research assistant on a project under UBC's Natural Language Processing group
 - 👩🏽‍💻 My go-to tech stack for web dev right now is Next.js, React and Supabase
-
-
+- 📫 You can reach me at jpdhillon07@gmail.com
 
 <!--
 **jappun/jappun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
